@@ -56,7 +56,7 @@ Suggested request: “Refresh the Benny and Lindsay Paris Fashion Week SS27 site
 
 ## Verification
 
-Run `node --check public/app.js` and `python3 validate.py`. Serve `public/` with a static server to inspect the UI. No dependency installation or build step is required. For Vercel import, use the Other framework preset, leave the Build Command empty, and set Output Directory to `public`. Deployment and DNS configuration are separate steps and have not been performed as part of this migration.
+Run `node --check public/app.js` and `python3 validate.py`. Serve `public/` with a static server to inspect the UI. No dependency installation or build step is required. The repository’s `vercel.json` configures a dependency-free static deployment: no install or build command, the Other framework preset, and `public` as the output directory. Keep the Vercel Root Directory at the repository root. GitHub pushes to `main` trigger production deployments after the Vercel integration is connected. Custom domains and DNS are configured separately.
 
 ## Runway media model
 
