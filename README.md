@@ -70,7 +70,7 @@ See `MEDIA-UPDATE.md` for all media sources, excluded clips, selection caveats, 
 
 ## Brand identity media
 
-All 32 show cards use locally stored brand logos instead of designer portraits or initials. Profiles show the brand logo and retain the existing artistic director portrait when available. `shows.json` stores a separate `logo` object with local `url`, `source`, `credit`, `originalUrl`, `capturedFrom`, `checkedAt`, and `sha256` provenance. Logo assets live in `public/assets/logos/`; their proportions are preserved. Official header assets are used for 31 houses; Balenciaga uses its official wordmark from Wikimedia Commons, linked and credited separately. Logos remain trademarks of their owners.
+All 32 show cards use locally stored brand logos instead of designer portraits or initials. Profiles show the brand logo and retain the existing artistic director portrait when available. `shows.json` stores a separate `logo` object with local `url`, `source`, `credit`, `originalUrl`, `capturedFrom`, `checkedAt`, and `sha256` provenance. Logo assets live in `public/assets/logos/`; their proportions are preserved. Official header assets are used for 30 houses; Balenciaga uses its official wordmark from Wikimedia Commons, linked and credited separately. Balmain uses the replacement PNG supplied by the user after its original SVG appeared blank. Logos remain trademarks of their owners.
 
 ## Approved editorial handoffs · October 2 update
 
