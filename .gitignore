@@ -1,0 +1,19 @@
+# Dependencies and generated build output
+node_modules/
+dist/
+build/
+coverage/
+.vercel/
+.openai/
+
+# Local environment secrets; allow safe templates
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Local caches, logs and OS metadata
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store

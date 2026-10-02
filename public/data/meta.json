@@ -1,0 +1,18 @@
+{
+  "season": "Womenswear Spring/Summer 2027",
+  "dates": "September 28 – October 6, 2026",
+  "timezone": "Europe/Paris",
+  "updatedAt": "2026-10-02",
+  "calendarRevision": "Uploaded revision 6",
+  "calendarCounts": {
+    "total": 101,
+    "shows": 67,
+    "presentations": 34
+  },
+  "notionWarnings": [
+    "Stella McCartney’s link duplicated Balmain; replaced only after title verification."
+  ],
+  "refreshMode": "manual-command",
+  "mediaUpdatedAt": "2026-10-02",
+  "audience": "Benny and Lindsay"
+}

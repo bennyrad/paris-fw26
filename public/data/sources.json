@@ -1,0 +1,1498 @@
+{
+  "calendar": {
+    "id": "calendar",
+    "title": "Official FHCM calendar · uploaded revision 6",
+    "url": "official-calendar-ss27.pdf",
+    "kind": "calendar",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "notion": {
+    "id": "notion",
+    "title": "the shared Notion collection",
+    "url": "https://app.notion.com/p/Paris-SS-FW-2026-3ed76e31796b80fa8749c40b72702e66",
+    "kind": "personal",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "dior-history": {
+    "id": "dior-history",
+    "title": "Dior · history & the New Look",
+    "url": "https://www.lvmh.com/our-maisons/fashion-leather-good/christian-dior/",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "anderson": {
+    "id": "anderson",
+    "title": "Jonathan Anderson takes the helm at Dior · Le Monde",
+    "url": "https://www.lemonde.fr/en/lifestyle/article/2025/06/02/jonathan-anderson-takes-the-helm-at-dior_6741912_37.html",
+    "kind": "press",
+    "publishedAt": "2025-06-02",
+    "checkedAt": "2026-10-02"
+  },
+  "dior-review": {
+    "id": "dior-review",
+    "title": "Dior SS27 · Who What Wear",
+    "url": "https://www.whowhatwear.com/fashion/runway/dior-spring-summer-27-review",
+    "kind": "press",
+    "publishedAt": "2026-09-29",
+    "checkedAt": "2026-10-02"
+  },
+  "dior-ap": {
+    "id": "dior-ap",
+    "title": "Dior comes undone in mist · AP",
+    "url": "https://apnews.com/article/d6ed747e4b07fbcdd01c7d74bd3922bb",
+    "kind": "press",
+    "publishedAt": "2026-09-29",
+    "checkedAt": "2026-10-02"
+  },
+  "dior-past": {
+    "id": "dior-past",
+    "title": "Anderson’s Dior womenswear debut · AP",
+    "url": "https://apnews.com/article/8ad0a13008aa08c1d9cea9ab97a91b1d",
+    "kind": "press",
+    "publishedAt": "2025-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "dior-reddit": {
+    "id": "dior-reddit",
+    "title": "Dior front row discussion · r/whatthefrockk",
+    "url": "https://www.reddit.com/r/whatthefrockk/comments/1wu55du/more_celebrities_at_the_dior_spring_2027_rtw_by/",
+    "kind": "reddit",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-02"
+  },
+  "ysl-profile": {
+    "id": "ysl-profile",
+    "title": "Vaccarello’s appointment · Kering",
+    "url": "https://www.kering.com/fr/actualites/yves-saint-laurent-nomme-anthony-vaccarello-directeur-artistique/",
+    "kind": "official",
+    "publishedAt": "2016-04-04",
+    "checkedAt": "2026-10-02"
+  },
+  "ysl-review": {
+    "id": "ysl-review",
+    "title": "Saint Laurent SS27 · Nicole Phelps, Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/saint-laurent",
+    "kind": "press",
+    "publishedAt": "2026-09-29",
+    "checkedAt": "2026-10-02"
+  },
+  "ysl-past": {
+    "id": "ysl-past",
+    "title": "Saint Laurent AW26 · Sarah Mower, Vogue",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/saint-laurent",
+    "kind": "press",
+    "publishedAt": "2026-03-03",
+    "checkedAt": "2026-10-02"
+  },
+  "ysl-reddit": {
+    "id": "ysl-reddit",
+    "title": "Rosé’s Saint Laurent diary · r/BlackPink",
+    "url": "https://www.reddit.com/r/BlackPink/comments/1wug85i/261001_ros%C3%A9_x_saint_laurent_for_w_magazine/",
+    "kind": "reddit",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-02"
+  },
+  "balmain-profile": {
+    "id": "balmain-profile",
+    "title": "Antonin Tron’s appointment · Balmain",
+    "url": "https://prod.balmain.com/en/experience/balmain-new-creative-director",
+    "kind": "official",
+    "publishedAt": "2025-11-12",
+    "checkedAt": "2026-10-02"
+  },
+  "balmain-history": {
+    "id": "balmain-history",
+    "title": "Balmain house history",
+    "url": "https://hk.balmain.com/on/demandware.static/-/Library-Sites-balmain-contentlibrary/default/dwb138ac3a/BALMAIN_DPEF-2023.pdf",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "balmain-review": {
+    "id": "balmain-review",
+    "title": "Balmain SS27 · Luke Leitch, Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/balmain",
+    "kind": "press",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-02"
+  },
+  "balmain-www": {
+    "id": "balmain-www",
+    "title": "Balmain’s Paris / California dialogue · Who What Wear",
+    "url": "https://www.whowhatwear.com/fashion/runway/balmain-spring-summer-2027",
+    "kind": "press",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-02"
+  },
+  "balmain-past": {
+    "id": "balmain-past",
+    "title": "Balmain AW26 · Luke Leitch, Vogue",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/balmain",
+    "kind": "press",
+    "publishedAt": "2026-03-04",
+    "checkedAt": "2026-10-02"
+  },
+  "stella-profile": {
+    "id": "stella-profile",
+    "title": "About Stella · official biography",
+    "url": "https://www.stellamccartney.com/sg/en/stellas-world/about-stella-mccartney.html",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "stella-review": {
+    "id": "stella-review",
+    "title": "Stella McCartney SS27 · Luke Leitch, Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/stella-mccartney",
+    "kind": "press",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-02"
+  },
+  "stella-ap": {
+    "id": "stella-ap",
+    "title": "Stella’s ocean message · AP",
+    "url": "https://apnews.com/article/ca517796a1d85051606741ac682f6dc2",
+    "kind": "press",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-02"
+  },
+  "stella-past": {
+    "id": "stella-past",
+    "title": "Stella McCartney AW26 · Vogue",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/stella-mccartney",
+    "kind": "press",
+    "publishedAt": "2026-03-04",
+    "checkedAt": "2026-10-02"
+  },
+  "stella-reddit": {
+    "id": "stella-reddit",
+    "title": "Kelsea Ballerini at Stella · r/whatthefrockk",
+    "url": "https://www.reddit.com/r/whatthefrockk/comments/1wukhtr/kelsea_ballerini_in_stella_mccartney_resort_2027/",
+    "kind": "reddit",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-02"
+  },
+  "haider-profile": {
+    "id": "haider-profile",
+    "title": "Haider Ackermann joins Tom Ford · British Vogue",
+    "url": "https://www.vogue.co.uk/article/haider-ackermann-tom-ford-creative-director",
+    "kind": "press",
+    "publishedAt": "2024-09-04",
+    "checkedAt": "2026-10-02"
+  },
+  "ford-official": {
+    "id": "ford-official",
+    "title": "TOM FORD announces Haider Ackermann",
+    "url": "https://www.businesswire.com/news/home/20240904332237/en/TOM-FORD-Announces-Appointment-of-Haider-Ackermann-as-Creative-Director",
+    "kind": "official",
+    "publishedAt": "2024-09-04",
+    "checkedAt": "2026-10-02"
+  },
+  "ford-review": {
+    "id": "ford-review",
+    "title": "Tom Ford SS27 · Nicole Phelps, Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tom-ford",
+    "kind": "press",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "ford-another": {
+    "id": "ford-another",
+    "title": "Haider Ackermann’s seductive survey · AnOther",
+    "url": "https://www.anothermag.com/fashion-beauty/17533/tom-ford-spring-summer-2027-ss27-review-haider-ackermann",
+    "kind": "press",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "ford-forum": {
+    "id": "ford-forum",
+    "title": "Tom Ford SS27 · theFashionSpot community review",
+    "url": "https://www.thefashionspot.com/runway-news/975215-forum-members-review-haider-ackermanns-smouldering-tom-ford-spring-2027-collection",
+    "kind": "social",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "ford-past": {
+    "id": "ford-past",
+    "title": "Tom Ford AW26 · Who What Wear",
+    "url": "https://www.whowhatwear.com/fashion/runway/tom-ford-paris-fashion-week-fall-winter-2026",
+    "kind": "press",
+    "publishedAt": "2026-03-06",
+    "checkedAt": "2026-10-02"
+  },
+  "chloe-profile": {
+    "id": "chloe-profile",
+    "title": "Chemena Kamali · Chloé",
+    "url": "https://www.chloe.com/en-nl/maison/chemena-kamali.html",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "chloe-history": {
+    "id": "chloe-history",
+    "title": "Chemena Kamali and the Chloé tradition · Vogue France",
+    "url": "https://www.vogue.fr/article/rencontre-chemena-kamali-chloe",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "chloe-review": {
+    "id": "chloe-review",
+    "title": "Chloé SS27 · Sarah Mower, Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chloe",
+    "kind": "press",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "chloe-ap": {
+    "id": "chloe-ap",
+    "title": "Chloé’s lace and lingerie · AP",
+    "url": "https://apnews.com/article/ba22415387a19188879dc7baac05dc25",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "chloe-past": {
+    "id": "chloe-past",
+    "title": "Chloé AW26 · Sarah Mower, Vogue",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/chloe",
+    "kind": "press",
+    "publishedAt": "2026-03-05",
+    "checkedAt": "2026-10-02"
+  },
+  "piccioli-profile": {
+    "id": "piccioli-profile",
+    "title": "Piccioli joins Balenciaga · Kering",
+    "url": "https://www.kering.com/en/houses/couture-and-leather-goods/balenciaga/",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "balenciaga-history": {
+    "id": "balenciaga-history",
+    "title": "Cristóbal Balenciaga · house timeline",
+    "url": "https://www.balenciaga.com/en-en/crist%C3%B3bal-balenciaga",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "balenciaga-review": {
+    "id": "balenciaga-review",
+    "title": "Everyday couture at Balenciaga SS27 · Vogue France",
+    "url": "https://www.vogue.fr/article/balenciaga-printemps-ete-2027",
+    "kind": "press",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "balenciaga-w": {
+    "id": "balenciaga-w",
+    "title": "Balenciaga SS27: freedom of movement · W",
+    "url": "https://www.wmagazine.com/fashion/balenciaga-spring-2027-runway-photos",
+    "kind": "press",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "balenciaga-reddit": {
+    "id": "balenciaga-reddit",
+    "title": "Lola Tung at Balenciaga SS27 · r/lolatung",
+    "url": "https://www.reddit.com/r/lolatung/comments/1wuz4bu/stunning_for_paris_fashion_week/",
+    "kind": "reddit",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "balenciaga-past": {
+    "id": "balenciaga-past",
+    "title": "Balenciaga AW26 · Vogue",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/balenciaga",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "rick-profile": {
+    "id": "rick-profile",
+    "title": "Making a maison · Rick Owens",
+    "url": "https://www.rickowens.eu/en-int/blogs/interviews/the-making-of-a-maison-october-2023",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "rick-bio": {
+    "id": "rick-bio",
+    "title": "Rick Owens biography · Palais Galliera",
+    "url": "https://www.palaisgalliera.paris.fr/sites/default/files/files/2025-06/DP%20Rick%20Owens%20UK.pdf",
+    "kind": "museum",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "rick-review": {
+    "id": "rick-review",
+    "title": "Rick Owens SS27 · Nicole Phelps, Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rick-owens",
+    "kind": "press",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "rick-fr": {
+    "id": "rick-fr",
+    "title": "Stone · Rick Owens SS27, Vogue France",
+    "url": "https://www.vogue.fr/article/rick-owens-printempsete-2027-fashion-week-paris",
+    "kind": "press",
+    "publishedAt": "2026-10-02",
+    "checkedAt": "2026-10-02"
+  },
+  "rick-past": {
+    "id": "rick-past",
+    "title": "Rick Owens AW26 · Vogue",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/rick-owens",
+    "kind": "press",
+    "publishedAt": "2026-03-05",
+    "checkedAt": "2026-10-02"
+  },
+  "chanel-profile": {
+    "id": "chanel-profile",
+    "title": "Chanel appoints Matthieu Blazy · AP",
+    "url": "https://apnews.com/article/382cdb8761153f7c74981535e36c0f50",
+    "kind": "press",
+    "publishedAt": "2024-12-12",
+    "checkedAt": "2026-10-02"
+  },
+  "chanel-bio": {
+    "id": "chanel-bio",
+    "title": "Blazy’s approach to Chanel · Le Monde",
+    "url": "https://www.lemonde.fr/en/m-le-mag/article/2025/10/08/chanel-s-new-face-matthieu-blazy-just-because-karl-was-a-legend-does-not-mean-that-everyone-who-designs-for-chanel-has-to-be-one-too_6746228_117.html",
+    "kind": "press",
+    "publishedAt": "2025-10-08",
+    "checkedAt": "2026-10-02"
+  },
+  "chanel-reddit": {
+    "id": "chanel-reddit",
+    "title": "Chanel loyalists discuss Blazy · r/chanel",
+    "url": "https://www.reddit.com/r/chanel/comments/1t4x9x1/can_we_just_once_and_for_all_truly_admit_do_we/",
+    "kind": "reddit",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "week-preview": {
+    "id": "week-preview",
+    "title": "Paris Fashion Week SS27 cheat sheet · Vogue",
+    "url": "https://www.vogue.com/article/paris-fashion-week-cheat-sheet-spring-summer-2027",
+    "kind": "press",
+    "publishedAt": "2026-09-28",
+    "checkedAt": "2026-10-02"
+  },
+  "lv-bio": {
+    "id": "lv-bio",
+    "title": "Nicolas Ghesquière · Louis Vuitton",
+    "url": "https://uk.louisvuitton.com/eng-gb/magazine/articles/nicolas-ghesquiere",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "lv-history": {
+    "id": "lv-history",
+    "title": "A legendary history · Louis Vuitton",
+    "url": "https://us.louisvuitton.com/eng-us/magazine/articles/a-legendary-history?linkId=12564050",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "lv-past": {
+    "id": "lv-past",
+    "title": "Louis Vuitton AW26 · Savoir Flair",
+    "url": "https://www.savoirflair.com/article/fashion-week/louis-vuitton-fall-2026/284d9f1e-22c0-4b24-aa88-6d1511484d3d",
+    "kind": "press",
+    "publishedAt": "2026-03-10",
+    "checkedAt": "2026-10-02"
+  },
+  "lv-ap": {
+    "id": "lv-ap",
+    "title": "Louis Vuitton AW26 · AP",
+    "url": "https://apnews.com/article/4195e860bdf0987dbefea841e9f48333",
+    "kind": "press",
+    "publishedAt": "2026-03-10",
+    "checkedAt": "2026-10-02"
+  },
+  "chanel-history": {
+    "id": "chanel-history",
+    "title": "Gabrielle Chanel · official history",
+    "url": "https://www.chanel.com/us/about-chanel/gabrielle-chanel/",
+    "kind": "official",
+    "publishedAt": null,
+    "checkedAt": "2026-10-02"
+  },
+  "chanel-past": {
+    "id": "chanel-past",
+    "title": "Chanel AW26 · Diana Tsui, 10 Magazine",
+    "url": "https://usa.10magazine.com/chanel-fall-2026-review/",
+    "kind": "press",
+    "publishedAt": "2026-03-10",
+    "checkedAt": "2026-10-02"
+  },
+  "rose-diary": {
+    "id": "rose-diary",
+    "title": "Rosé’s SS27 diary · W Magazine",
+    "url": "https://www.wmagazine.com/fashion/rose-saint-laurent-photo-diary-spring-2027-interview",
+    "kind": "social",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-02"
+  },
+  "ysl-w": {
+    "id": "ysl-w",
+    "title": "Saint Laurent SS27 · W Magazine",
+    "url": "https://www.wmagazine.com/fashion/saint-laurent-spring-2027-runway-photos",
+    "kind": "press",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-02"
+  },
+  "stella-video": {
+    "id": "stella-video",
+    "title": "Stella McCartney SS27 report & official video · So-en",
+    "url": "https://soen.tokyo/fashion/collection/stella_mccartney_ss2027_20262001/",
+    "kind": "press",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-02"
+  },
+  "handoff-77f3ea07647138": {
+    "title": "LVMH Prize profile",
+    "url": "https://www.lvmhprize.com/en/julie-kegels",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-6611069cdf1028": {
+    "title": "LVMH winners announcement",
+    "url": "https://www.lvmh.com/fr/les-actualites-lvmh/prix-lvmh-2026-pour-les-jeunes-createurs-de-mode-13eme-edition-les-gagnants-julie-kegels-prix-lvmh-lii-prix-karl-lagerfeld-yoshita-1967-prix-des-savoir-faire",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-bb4a22a5705224": {
+    "title": "Vogue, AW26",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/julie-kegels",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-b1c8a42941f4b1": {
+    "title": "Vogue France",
+    "url": "https://www.vogue.fr/article/julie-kegels-collection-printemps-ete-2027",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-e73e63ea6cf0af": {
+    "title": "Savoir Flair",
+    "url": "https://www.savoirflair.com/article/fashion-week/julie-kegels-spring-2027/9b8051b2-f747-4185-bc60-05ad74f616f6",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-0b70251dc94e4c": {
+    "title": "Vogue, SS27",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/julie-kegels",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-99a91feec85349": {
+    "title": "r/popculturechat",
+    "url": "https://www.reddit.com/r/popculturechat/comments/1w7asiu/jennifer_lawrence_announces_julie_kegels_as_the/",
+    "kind": "reddit",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-4634d673ec0d6b": {
+    "title": "FHCM profile",
+    "url": "https://www.fhcm.paris/fr/maison/weinsanto",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-44db7df4390f73": {
+    "title": "WWD, AW26, via Yahoo",
+    "url": "https://shopping.yahoo.com/style/clothing/articles/weinsanto-fall-2026-let-dance-122004741.html",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-fbb49bebcea299": {
+    "title": "WWD, SS27, via Yahoo",
+    "url": "https://shopping.yahoo.com/style/clothing/articles/weinsanto-spring-2027-animal-instincts-084540217.html",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-6ea6ab62c202ed": {
+    "title": "FHCM interview",
+    "url": "https://www.fhcm.paris/fr/news/inside-maxhosas-runway-debut",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-6ad68838f9787e": {
+    "title": "Vogue, AW26",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/maxhosa",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-2aae55f06f0377": {
+    "title": "Vogue, SS27",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maxhosa",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-c98bf71f52143c": {
+    "title": "LVMH Prize profile",
+    "url": "https://www.lvmhprize.com/en/hodakova",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-33270b0e8277f5": {
+    "title": "Vogue, AW26",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/hodakova",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-99b94c0d508a38": {
+    "title": "Vanity Teen",
+    "url": "https://www.vanityteen.com/hodakova-ss27-caught-in-the-net/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-030a100d9e065c": {
+    "title": "Vogue, SS27",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hodakova",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-1efbf9505d6c55": {
+    "title": "Numéro Netherlands",
+    "url": "https://numeronetherlands.squarespace.com/fashion/paris-fashion-week-springsummer-2027-day-1",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-3c5e47336056d6": {
+    "title": "FHCM profile",
+    "url": "https://www.fhcm.paris/fr/maison/matieres-fecales",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-0fb5e88f6958ab": {
+    "title": "Vogue, AW26",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/matieres-fecales",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-835caaba6c9e47": {
+    "title": "Vogue France",
+    "url": "https://www.vogue.fr/article/matieres-fecales-printemps-ete-2027-fashion-week-paris",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-712e1d1480f392": {
+    "title": "Vogue, SS27",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/matieres-fecales",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-158edab3d5e5f1": {
+    "title": "Numéro",
+    "url": "https://numero.com/en/fashion/fashion-week-en/matieres-fecales-spring-summer-2027-show/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-2b6110a40f86a8": {
+    "title": "r/whatthefrockk",
+    "url": "https://www.reddit.com/r/whatthefrockk/comments/1wsqwau/rihanna_attends_the_mati%C3%A8res_f%C3%A9cales_springsummer/",
+    "kind": "reddit",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-f090b4a22e37d7": {
+    "title": "FHCM profile",
+    "url": "https://www.fhcm.paris/fr/maison/ester-manas",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-cb2018b06f413d": {
+    "title": "FHCM interview",
+    "url": "https://www.fhcm.paris/fr/news/the-essence-of-ester-manas",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-ba8d773b2b899c": {
+    "title": "Vogue, SS25",
+    "url": "https://www.vogue.com/fashion-shows/spring-2025-ready-to-wear/ester-manas",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-fd997b241dfb02": {
+    "title": "Vogue, SS27",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ester-manas",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-38afebba5e118f": {
+    "title": "ELLE",
+    "url": "https://www.elle.com/runway/a73935477/ester-manas-spring-2027-review/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-cec5b6e5a5dd47": {
+    "title": "FHCM profile",
+    "url": "https://www.fhcm.paris/fr/maison/marie-adam-leenaerdt",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-7c52afe790f7e2": {
+    "title": "ANDAM profile",
+    "url": "https://andam.fr/portfolio/marie-adam-leenaerdt/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-979d9dfcd603eb": {
+    "title": "ANDAM winners",
+    "url": "https://andam.fr/edition-2020/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-1bf420a2227087": {
+    "title": "Vogue, AW26",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/marie-adam-leenaerdt",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-5054809053ff0b": {
+    "title": "Vogue France",
+    "url": "https://www.vogue.fr/article/marie-adam-leenaerdt-printemps-ete-2027",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-3ac7bbf9324da7": {
+    "title": "Goldfoil",
+    "url": "https://www.goldfoil.eu/runway/marie-adam-leenaerdt-spring-2027",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-cf8e145c25f345": {
+    "title": "Vogue, SS27",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marie-adam-leenaerdt",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-9d9b082af5ccb8": {
+    "title": "FHCM profile",
+    "url": "https://www.fhcm.paris/fr/maison/mame-kurogouchi",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-25e4dbb55713c8": {
+    "title": "Vogue, AW26",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/mame-kurogouchi",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-7bda1652dfe161": {
+    "title": "WWD, via Yahoo",
+    "url": "https://shopping.yahoo.com/style/clothing/articles/mame-kurogouchi-spring-2027-repeat-152928684.html",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-d58167ed3cc7bb": {
+    "title": "Vogue, SS27",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mame-kurogouchi",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-4acbe7c576f24b": {
+    "title": "ELLE, AW26",
+    "url": "https://www.elle.com/runway/a70523344/dior-fall-2026-review/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-22588c564286b9": {
+    "title": "ELLE, SS27",
+    "url": "https://www.elle.com/runway/a73926182/dior-spring-2027-review/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-e404780210997a": {
+    "title": "r/whatthefrockk",
+    "url": "https://www.reddit.com/r/whatthefrockk/comments/1wtev8g/dior_ss27_by_jonathan_anderson_at_paris_fashion/",
+    "kind": "reddit",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-6570a91f48be57": {
+    "title": "FHCM profile",
+    "url": "https://www.fhcm.paris/fr/maison/burc-akyol",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-278686f683e385": {
+    "title": "Vogue, AW26",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/burc-akyol",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-2b62951eca4d97": {
+    "title": "Vanity Teen",
+    "url": "https://www.vanityteen.com/burc-akyol-ss27-review/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-60727e143df528": {
+    "title": "nss magazine",
+    "url": "https://www.nssmag.com/en/fashion/47074/burc-akyol-spring-summer-2027-fashion-show-review",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-5eb956c42492fd": {
+    "title": "OTB appointment",
+    "url": "https://www.otb.net/zh/news/maison-margiela-appoints-new-creative-director",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-bc35327230d8a4": {
+    "title": "OTB chronology",
+    "url": "https://www.otb.net/ja/news/otb-presents-its-2025-full-year-results",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-aa554a35953696": {
+    "title": "FHCM profile",
+    "url": "https://www.fhcm.paris/fr/maison/maison-margiela",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-2c5fded11575b8": {
+    "title": "Vogue, AW26",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/maison-martin-margiela",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-8734c9fc7afd6e": {
+    "title": "DSCENE",
+    "url": "https://www.designscene.net/2026/09/maison-margiela-ss27.html",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-dc23326c4378a8": {
+    "title": "Vogue France",
+    "url": "https://www.vogue.fr/article/printemps-ete-2027-margiela",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-ec97a16fdb6b28": {
+    "title": "r/MaisonMargiela",
+    "url": "https://www.reddit.com/r/MaisonMargiela/comments/1wvszt2/maison_margiela_spring_2027_by_glenn_martens/",
+    "kind": "reddit",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-cf182f71d0cc15": {
+    "title": "FHCM profile",
+    "url": "https://www.fhcm.paris/fr/maison/anrealage",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-f69444facbafbe": {
+    "title": "DSCENE",
+    "url": "https://www.designscene.net/2026/09/anrealage-spring-summer-2027.html",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-13ae6fd0e45d9d": {
+    "title": "Vogue, AW26",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/anrealage",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-eebcfadacb3d66": {
+    "title": "Fashion Press",
+    "url": "https://www.fashion-press.net/news/151497",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-0d77c0db85c93a": {
+    "title": "Vogue, SS27",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/anrealage",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-e9ec84053d8aef": {
+    "title": "Vanity Teen",
+    "url": "https://www.vanityteen.com/anrealage-ss27-review/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-9aa0f6247e11f8": {
+    "title": "Kering profile",
+    "url": "https://www.kering.com/en/houses/fashion-and-leather-goods/saint-laurent/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-c35ad913624777": {
+    "title": "AnOther",
+    "url": "https://www.anothermag.com/fashion-beauty/17521/saint-laurent-spring-summer-2027-ss27-review-anthony-vaccarello",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-f9e26922439b6a": {
+    "title": "AP, AW26",
+    "url": "https://apnews.com/article/ee967d3dcd050925e8c889517e6b5084",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-1832c39d77c67f": {
+    "title": "Vogue appointment report",
+    "url": "https://www.vogue.com/article/courreges-appoints-drew-henry-as-artistic-director",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-a597590008d272": {
+    "title": "Vogue SS27 review",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/courreges",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-30b462c8ba069d": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/fr/maison/courreges",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-3c7086971292e1": {
+    "title": "Vogue AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/courreges",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-3e5d561eed2a4b": {
+    "title": "AnOther",
+    "url": "https://www.anothermag.com/fashion-beauty/17530/courreges-drew-henry-spring-summer-2027-review-paris-fashion-week",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-9a982203eb5068": {
+    "title": "The Impression",
+    "url": "https://theimpression.com/courreges-spring-2027-fashion-show-review/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-40d2d8930c63d4": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/the-row",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-6a3512ed4ecfd0": {
+    "title": "Vogue Resort 2027 review",
+    "url": "https://www.vogue.com/fashion-shows/resort-2027/row",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-25802105e2305e": {
+    "title": "Vogue SS27 review",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/row",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-5dd77bf0cb0430": {
+    "title": "AP appointment report",
+    "url": "https://apnews.com/article/1f55de71cc411a9037486099b61348ca",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-3f024b4d679653": {
+    "title": "Le Monde appointment report",
+    "url": "https://www.lemonde.fr/m-styles/article/2024/12/09/julian-klausner-nouveau-directeur-artistique-de-dries-van-noten_6438512_4497319.html",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-d857bf4039830c": {
+    "title": "FHCM",
+    "url": "https://www.fhcm.paris/en/house/dries-van-noten",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-d271d4e7cd0b49": {
+    "title": "Vogue AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/dries-van-noten",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-14d9311a4d80b7": {
+    "title": "Official SS27 collection",
+    "url": "https://www.driesvannoten.com/en-it/pages/show-ss-27-women",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-9132ca45fb35f9": {
+    "title": "Vogue SS27 review",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/dries-van-noten",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-ebdfeed8268206": {
+    "title": "Reddit collection discussion",
+    "url": "https://www.reddit.com/r/DriesVanNoten/comments/1wu9bs5/collection_discussion_womenswear_ss2027/",
+    "kind": "reddit",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-4a22ffe232f94a": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/stella-mccartney",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-f40c881c54a666": {
+    "title": "Reddit front-row discussion",
+    "url": "https://www.reddit.com/r/whatthefrockk/comments/1wumivh/jennifer_lopez_in_stella_mccartney_fw26_at_the/",
+    "kind": "reddit",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-659f8f399ced33": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/vaquera",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-aaa4af11f8e550": {
+    "title": "Vogue AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/vaquera",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-7cb95b13136ec7": {
+    "title": "nss magazine",
+    "url": "https://www.nssmag.com/en/fashion/47098/vaquera-spring-summer-2027-runway-review",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-1386e4db19624f": {
+    "title": "Vogue",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/vaquera",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-566ca63644f7fc": {
+    "title": "Example event post",
+    "url": "https://www.reddit.com/r/NicOlandriaGroupChat/comments/1wubwgl/olandria_arrives_at_vaquera_ss27_paris_fashion/",
+    "kind": "reddit",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-702120a88f7325": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/acne-studios",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-ac86fc52c9e185": {
+    "title": "Vogue AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/acne-studios",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-bc71437d780dc5": {
+    "title": "Wallpaper\\* season preview",
+    "url": "https://www.wallpaper.com/fashion-beauty/paris-fashion-week-ss-2027-schedule-best-moments",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-acc6328a4e8a45": {
+    "title": "Vogue SS27 review",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/acne-studios",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-34d6bd396cdce1": {
+    "title": "Acne Studios SS27",
+    "url": "https://www.acnestudios.com/dk/en/woman/ss27/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-d1732399393d7c": {
+    "title": "Official appointment announcement",
+    "url": "https://www.tomfordfashion.de/en-de/HaiderAckermannAnnouncement.html",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-b39e8fdd80febe": {
+    "title": "Official brand profile",
+    "url": "https://www.elcompanies.com/en/our-brands/tom-ford",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-4393c5a46b6df0": {
+    "title": "Vogue AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/tom-ford",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-52d9ee4184a67c": {
+    "title": "Example Cynthia Erivo post",
+    "url": "https://www.reddit.com/r/CynthiaErivoLove/comments/1wv21df/so_about_last_night/",
+    "kind": "reddit",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-de2d751c70adac": {
+    "title": "Appointment announcement",
+    "url": "https://www.richemont.com/media/evlnzo3l/2023-10-09.pdf",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-29dba7b1a576ce": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/chloe",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-943f1e77763b30": {
+    "title": "ELLE’s SS27 review",
+    "url": "https://www.elle.com/runway/a73969550/chloe-spring-2027-review/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-91e46fcc719052": {
+    "title": "Paris Opera biography",
+    "url": "https://www.operadeparis.fr/artistes/alainpaul",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-19d734142763ea": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/alainpaul",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-03124cb0a5a106": {
+    "title": "Vogue’s AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/alainpaul",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-e7963545eb2ebd": {
+    "title": "Vogue’s SS27 review",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alainpaul",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-2e3e647c8d0f61": {
+    "title": "Appointment report",
+    "url": "https://www.vogue.com/article/carven-taps-kai-nesselrath-as-design-director",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-69b365fe3cc4ee": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/carven",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-70df8f75f306ff": {
+    "title": "Vogue’s AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/carven",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-69b6c165a7529b": {
+    "title": "Vogue’s SS27 review",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/carven",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-126543a68ee5de": {
+    "title": "Daily Front Row",
+    "url": "https://fashionweekdaily.com/kai-nesselrath-carven-spring-2027/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-8c3811c363671c": {
+    "title": "Kering appointment announcement",
+    "url": "https://www.kering.com/en/news/pierpaolo-piccioli-appointed-creative-director-of-balenciaga/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-8c2df24b18fefe": {
+    "title": "Who What Wear’s AW26 report",
+    "url": "https://www.whowhatwear.com/fashion/runway/balenciaga-paris-fashion-week-fall-winter-2026",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-7f4e48e9af52ca": {
+    "title": "ELLE’s SS27 review",
+    "url": "https://www.elle.com/runway/a73975033/balenciaga-spring-2027-review/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-779117cfd95b3b": {
+    "title": "Harper’s Bazaar",
+    "url": "https://www.harpersbazaar.com/fashion/a73979609/balenciaga-spring-2027-pierpaolo-piccioli-review/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-df209f53bd1d50": {
+    "title": "Kering’s post",
+    "url": "https://www.linkedin.com/posts/kering_activity-7511042803427065856-c7Zv",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-c86f89cc99ba70": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/cecilie-bahnsen",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-757151e1959bab": {
+    "title": "Vogue’s AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/cecilie-bahnsen",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-580e7f90e98309": {
+    "title": "Vogue’s SS27 review",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cecilie-bahnsen",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-9d7e5de6c1f901": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/uma-wang",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-2a898d54fd57b8": {
+    "title": "Vogue’s AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/uma-wang",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-bfe98e17bb4911": {
+    "title": "Vogue’s SS27 review",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/uma-wang",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-0183cc8bda0f47": {
+    "title": "FHCM",
+    "url": "https://www.fhcm.paris/en/house/rick-owens",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-075b66bc213009": {
+    "title": "Official show notes",
+    "url": "https://vimeo.com/1232113244",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-88bd13f036b053": {
+    "title": "ELLE Brasil",
+    "url": "https://elle.com.br/desfiles/pfw-rick-owens-verao-2027",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-35f1468e93e0b0": {
+    "title": "Official biography",
+    "url": "https://schiaparelli.com/en/pages/daniel-roseberry",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-1d86cbac9b7fb5": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/schiaparelli",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-530f70a75fa701": {
+    "title": "Vogue’s AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/schiaparelli",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-15ed236083c7c7": {
+    "title": "Vogue’s SS27 review",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/schiaparelli",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-3d4ccd17b253b3": {
+    "title": "Marie Claire’s guest coverage",
+    "url": "https://www.marieclaire.com/fashion/celebrity-style/best-celebrity-looks-paris-fashion-week-2026/",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-0f47cbf1de6c96": {
+    "title": "Vogue France’s appointment report",
+    "url": "https://www.vogue.fr/mode/article/isabel-marant-kim-bekker-direction-artistique",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-f8071c11280cd5": {
+    "title": "W",
+    "url": "https://www.wmagazine.com/fashion/isabel-marant-spring-2027-runway-photos",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-6aeac7c1d6b8fa": {
+    "title": "FHCM house profile",
+    "url": "https://www.fhcm.paris/en/house/isabel-marant",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "handoff-c67ea318baab3f": {
+    "title": "Vogue’s AW26 review",
+    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/isabel-marant",
+    "kind": "handoff source",
+    "checkedAt": "2026-10-02",
+    "publishedAt": null,
+    "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  }
+}
