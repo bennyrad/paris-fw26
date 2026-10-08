@@ -1494,5 +1494,293 @@
     "checkedAt": "2026-10-02",
     "publishedAt": null,
     "provenance": "Approved individual-show copy handoff; not independently re-researched"
+  },
+  "refresh-julie-kegels": {
+    "id": "refresh-julie-kegels",
+    "title": "Julie Kegels SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/julie-kegels",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-weinsanto": {
+    "id": "refresh-weinsanto",
+    "title": "Weinsanto SS27 · WWD / Yahoo · October 8 recheck",
+    "url": "https://shopping.yahoo.com/style/clothing/articles/weinsanto-spring-2027-animal-instincts-084540217.html",
+    "kind": "press",
+    "publishedAt": "2026-09-29",
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-maxhosa-africa": {
+    "id": "refresh-maxhosa-africa",
+    "title": "Maxhosa Africa SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maxhosa",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-hodakova": {
+    "id": "refresh-hodakova",
+    "title": "Hodakova SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hodakova",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-matieres-fecales": {
+    "id": "refresh-matieres-fecales",
+    "title": "Matières Fécales SS27 · Numéro · October 8 recheck",
+    "url": "https://numero.com/en/fashion/fashion-week-en/matieres-fecales-spring-summer-2027-show/",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-ester-manas": {
+    "id": "refresh-ester-manas",
+    "title": "Ester Manas SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ester-manas",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-marie-adam-leenaerdt": {
+    "id": "refresh-marie-adam-leenaerdt",
+    "title": "Marie Adam-Leenaerdt SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marie-adam-leenaerdt",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-mame-kurogouchi": {
+    "id": "refresh-mame-kurogouchi",
+    "title": "Mame Kurogouchi SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mame-kurogouchi",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-christian-dior": {
+    "id": "refresh-christian-dior",
+    "title": "Christian Dior SS27 · ELLE · October 8 recheck",
+    "url": "https://www.elle.com/runway/a73926182/dior-spring-2027-review/",
+    "kind": "press",
+    "publishedAt": "2026-09-29",
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-burc-akyol": {
+    "id": "refresh-burc-akyol",
+    "title": "Burc Akyol SS27 · NSS · October 8 recheck",
+    "url": "https://www.nssmag.com/en/fashion/47074/burc-akyol-spring-summer-2027-fashion-show-review",
+    "kind": "press",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-maison-margiela": {
+    "id": "refresh-maison-margiela",
+    "title": "Maison Margiela SS27 · DSCENE · October 8 recheck",
+    "url": "https://www.designscene.net/2026/09/maison-margiela-ss27.html",
+    "kind": "press",
+    "publishedAt": "2026-09-30",
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-anrealage": {
+    "id": "refresh-anrealage",
+    "title": "Anrealage SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/anrealage",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-saint-laurent": {
+    "id": "refresh-saint-laurent",
+    "title": "Saint Laurent SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/saint-laurent",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-courreges": {
+    "id": "refresh-courreges",
+    "title": "Courrèges SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/courreges",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-the-row": {
+    "id": "refresh-the-row",
+    "title": "The Row SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/row",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-balmain": {
+    "id": "refresh-balmain",
+    "title": "Balmain SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/balmain",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-dries-van-noten": {
+    "id": "refresh-dries-van-noten",
+    "title": "Dries Van Noten SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/dries-van-noten",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-stella-mccartney": {
+    "id": "refresh-stella-mccartney",
+    "title": "Stella McCartney SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/stella-mccartney",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-vaquera": {
+    "id": "refresh-vaquera",
+    "title": "Vaquera SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/vaquera",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-acne-studios": {
+    "id": "refresh-acne-studios",
+    "title": "Acne Studios SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/acne-studios",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-tom-ford": {
+    "id": "refresh-tom-ford",
+    "title": "Tom Ford SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tom-ford",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-chloe": {
+    "id": "refresh-chloe",
+    "title": "Chloé SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chloe",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-alainpaul": {
+    "id": "refresh-alainpaul",
+    "title": "ALAINPAUL SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alainpaul",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-carven": {
+    "id": "refresh-carven",
+    "title": "Carven SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/carven",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-balenciaga": {
+    "id": "refresh-balenciaga",
+    "title": "Balenciaga SS27 · ELLE · October 8 recheck",
+    "url": "https://www.elle.com/runway/a73975033/balenciaga-spring-2027-review/",
+    "kind": "press",
+    "publishedAt": "2026-10-01",
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-cecilie-bahnsen": {
+    "id": "refresh-cecilie-bahnsen",
+    "title": "Cecilie Bahnsen SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cecilie-bahnsen",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-uma-wang": {
+    "id": "refresh-uma-wang",
+    "title": "Uma Wang SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/uma-wang",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-rick-owens": {
+    "id": "refresh-rick-owens",
+    "title": "Rick Owens SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rick-owens",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-schiaparelli": {
+    "id": "refresh-schiaparelli",
+    "title": "Schiaparelli SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/schiaparelli",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-isabel-marant": {
+    "id": "refresh-isabel-marant",
+    "title": "Isabel Marant SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/isabel-marant",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-chanel": {
+    "id": "refresh-chanel",
+    "title": "Chanel SS27 · Who What Wear · October 8 recheck",
+    "url": "https://www.whowhatwear.com/fashion/runway/chanel-paris-fashion-week-spring-summer-2027",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-chanel-official": {
+    "id": "refresh-chanel-official",
+    "title": "Chanel Womenswear SS27 · FHCM film and lookbook",
+    "url": "https://www.fhcm.paris/en/collection/chanel-womenswear-springsummer-2027",
+    "kind": "official",
+    "publishedAt": "2026-10-05",
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-louis-vuitton": {
+    "id": "refresh-louis-vuitton",
+    "title": "Louis Vuitton SS27 · Vogue · October 8 recheck",
+    "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/louis-vuitton",
+    "kind": "press",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-louis-vuitton-official": {
+    "id": "refresh-louis-vuitton-official",
+    "title": "Louis Vuitton Womenswear SS27 · FHCM film and lookbook",
+    "url": "https://www.fhcm.paris/fr/collection/louis-vuitton-mode-feminine-printempsete-2027",
+    "kind": "official",
+    "publishedAt": "2026-10-06",
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-chanel-social": {
+    "id": "refresh-chanel-social",
+    "url": "https://www.reddit.com/r/chanel/comments/1wymi78/some_looks_from_the_ss27_show/",
+    "title": "Chanel SS27 looks · r/chanel",
+    "kind": "social sample",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
+  },
+  "refresh-dries-van-noten-social": {
+    "id": "refresh-dries-van-noten-social",
+    "url": "https://www.reddit.com/r/DriesVanNoten/comments/1wu9bs5/collection_discussion_womenswear_ss2027/",
+    "title": "Dries Womenswear SS27 · Reddit collection discussion",
+    "kind": "social sample",
+    "publishedAt": null,
+    "checkedAt": "2026-10-08"
   }
 }

@@ -6,7 +6,9 @@ export function mediaSources(s, esc, safeUrl) {
   for (const a of s.videoAlternates || []) links.set(`https://www.youtube.com/watch?v=${a.id}`, a.title);
   for (const i of s.images || []) links.set(i.source_url, `${i.image_source} · ${s.name} Womenswear SS27`);
   if (s.mediaSource) links.set(s.mediaSource, `${s.name} Womenswear SS27 · collection source`);
-  return [...links].map(([url, title]) => `<li><a href="${esc(safeUrl(url))}" target="_blank" rel="noopener noreferrer">${esc(title)}</a><span class="small">RUNWAY MEDIA · Checked ${esc(s.mediaUpdatedAt || s.updatedAt)}</span></li>`).join('');
+  const fresh=s.researchUpdate?.video;
+  const freshLink=fresh?`<li><a href="https://www.youtube.com/watch?v=${esc(fresh.id)}" target="_blank" rel="noopener noreferrer">${esc(fresh.title)}</a><span class="small">OFFICIAL RUNWAY MEDIA · ${esc(fresh.publisher)} · Checked ${esc(s.researchUpdate.checkedAt)}</span></li>`:'';
+  return freshLink + [...links].map(([url, title]) => `<li><a href="${esc(safeUrl(url))}" target="_blank" rel="noopener noreferrer">${esc(title)}</a><span class="small">RUNWAY MEDIA · Checked ${esc(s.mediaUpdatedAt || s.updatedAt)}</span></li>`).join('');
 }
 
 function gallery(s, esc, safeUrl) {
@@ -15,7 +17,8 @@ function gallery(s, esc, safeUrl) {
 }
 
 export function runwayMedia(s, esc, safeUrl, photo) {
-  let html = '';
+  const fresh=s.researchUpdate?.video;
+  let html = fresh?`<span class="tag">Official SS27 runway film · ${esc(s.researchUpdate.checkedAt)}</span><div class="video"><iframe src="https://www.youtube-nocookie.com/embed/${esc(fresh.id)}" title="${esc(fresh.title)}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><p class="small">${esc(fresh.publisher)} · <a href="https://www.youtube.com/watch?v=${esc(fresh.id)}" target="_blank" rel="noopener">Watch the official film on YouTube</a>.</p>`:'';
   if (s.video) {
     html = `<span class="tag">${videoLabel(s)}</span><div class="video"><iframe src="https://www.youtube-nocookie.com/embed/${esc(s.video)}" title="${esc(s.videoTitle || `${s.name} Womenswear Spring/Summer 2027 ${videoLabel(s)}`)}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><p class="small">${esc(s.videoOrigin)}. If playback is restricted, <a href="https://www.youtube.com/watch?v=${esc(s.video)}" target="_blank" rel="noopener">watch on YouTube</a>.</p>`;
     if (s.videoNote) html += `<p class="small">${esc(s.videoNote)}</p>`;
@@ -26,7 +29,7 @@ export function runwayMedia(s, esc, safeUrl, photo) {
   if (s.image) html += `<figure class="article-image">${photo(s.image, s.image.alt_text || `${s.name} Spring/Summer 2027 runway photograph`)}</figure>`;
   if (s.video_status === 'video_pending') {
     html += `<div class="pending-media"><span class="tag">Video pending</span><p class="small">${esc(s.videoNote || 'A verified Womenswear SS27 full-show film will be added when available.')}</p>${!s.images?.length ? `<p class="small">${s.galleryNote ? esc(s.galleryNote) : 'No verified image selection is available yet.'}${s.mediaSource ? ` <a href="${esc(safeUrl(s.mediaSource))}" target="_blank" rel="noopener">View the collection source</a>.` : ''}</p>` : ''}</div>`;
-  } else if (!s.video && !s.images?.length) html += `<div class="video-missing"><h3>${s.researchStatus === 'preview' ? 'The runway is still ahead.' : 'Recording awaiting verification.'}</h3><p>${esc(s.videoNote || 'A verified SS27 film will be added after the show.')}</p></div>`;
+  } else if (!fresh && !s.video && !s.images?.length) html += `<div class="video-missing"><h3>${s.researchStatus === 'preview' ? 'The runway is still ahead.' : 'Recording awaiting verification.'}</h3><p>${esc(s.videoNote || 'A verified SS27 film will be added after the show.')}</p></div>`;
   if (s.images?.length) html += `<p class="small media-rights">Selected SS27 looks. Image rights remain with the credited house, photographers and publishers.</p>`;
   return html;
 }

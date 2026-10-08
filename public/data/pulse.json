@@ -439,5 +439,44 @@
       "show": "courreges",
       "reason": "User approved alignment of Courrèges references with the Drew Henry dossier on October 2, 2026."
     }
-  ]
+  ],
+  "researchUpdate": {
+    "checkedAt": "2026-10-08",
+    "coverageEnd": "2026-10-06",
+    "title": "After the finale. What holds up?",
+    "paragraphs": [
+      {
+        "text": "The calendar is complete: Louis Vuitton closed on October 6 at 18:30 Paris. The two final briefings now have post-show updates and official films. This supplement covers the 32 houses already in the notebook; it does not add dossiers for the remaining calendar entries.",
+        "sources": [
+          "refresh-chanel-official",
+          "refresh-louis-vuitton-official"
+        ]
+      },
+      {
+        "text": "Editorial reading: lighter construction remains a useful thread, from Dior’s loosened proportions and Bahnsen’s adjustable volume to Louis Vuitton’s body-oriented finale. These are collection comparisons drawn from the linked reporting, rather than an objectively measured season-wide trend.",
+        "sources": [
+          "refresh-christian-dior",
+          "refresh-cecilie-bahnsen",
+          "refresh-louis-vuitton"
+        ]
+      },
+      {
+        "text": "The favourable early signals need qualifications. Margiela gains a critical counter-reading; Isabel Marant’s lighter mood comes with a tentative assessment. Chanel’s enthusiastic product-focused press meets a divided small photo thread. Press reception and audience samples stay separate.",
+        "sources": [
+          "refresh-maison-margiela",
+          "refresh-isabel-marant",
+          "refresh-chanel",
+          "refresh-chanel-social"
+        ]
+      },
+      {
+        "text": "The Saint Laurent and Chloé farewell interpretations remain rumours in the checked reporting. Applause, a final bow and social speculation do not establish a departure or appointment. No such change is applied to the designer records.",
+        "sources": [
+          "refresh-saint-laurent",
+          "refresh-chloe"
+        ]
+      }
+    ],
+    "note": "The approved October 2 Pulse, daily recaps, groups and ratings are preserved below as the editorial baseline. Proposed revisions are listed separately and have not been applied."
+  }
 }

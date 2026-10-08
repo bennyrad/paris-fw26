@@ -66,3 +66,23 @@ for copy_file in [*p.glob('data/*.json'),p/'app.js',p/'index.html']:
 assert (p/'official-calendar-ss27.pdf').exists()
 assert 'app.js' in (p/'index.html').read_text()
 print('Verified 101 calendar entries, 32 show pages, 17 primary videos, 12 six-image galleries, media safeguards, shared copy, citations and final-show anchors.')
+
+# Research supplements must not silently rewrite the approved editorial baseline.
+import hashlib
+baseline=json.loads((p.parent/'editorial-baseline.json').read_text())
+def editorial_digest(value):
+ return hashlib.sha256(json.dumps(value,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()).hexdigest()
+for s in shows:
+ assert editorial_digest({k:v for k,v in s.items() if k!='researchUpdate'})==baseline['shows'][s['slug']],s['slug']
+ u=s['researchUpdate']
+ assert u['checkedAt']=='2026-10-08' and u['baselineDate']==s['updatedAt']
+ for paragraph in [*u['paragraphs'],u['social']]:
+  assert paragraph['text']
+  assert all(ref in sources and sources[ref]['checkedAt']==u['checkedAt'] for ref in paragraph['sources'])
+ if u.get('proposal'):assert u['proposal']['applied'] is False
+ if u.get('video'):assert re.fullmatch(r'[A-Za-z0-9_-]{11}',u['video']['id']) and u['completed']
+assert editorial_digest({k:v for k,v in pulse.items() if k!='researchUpdate'})==baseline['pulse']
+assert pulse['researchUpdate']['coverageEnd']=='2026-10-06'
+for para in pulse['researchUpdate']['paragraphs']:assert all(ref in sources for ref in para['sources'])
+assert sum(bool(s['researchUpdate'].get('video')) for s in shows)==2
+print('Verified 32 October 8 supplements, two official finale films, citations, unapplied proposals and exact approved editorial baseline hashes.')

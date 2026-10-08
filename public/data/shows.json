@@ -194,7 +194,29 @@
     "reception_rating": "neutral",
     "reception_emoji": "😐",
     "reception_confidence": "medium",
-    "reception_blurb": "Clear concept and interesting execution, with some questions around wearability."
+    "reception_blurb": "Clear concept and interesting execution, with some questions around wearability.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Lucy Maguire reads the collection through weight and gravity: weighted fabric, historical trouser details and surface treatments turn ordinary clothes into physical experiments. This is a specific critical reading, rather than evidence of a broader audience verdict.",
+          "sources": [
+            "refresh-julie-kegels"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "weinsanto",
@@ -314,7 +336,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "low",
-    "reception_blurb": "Warm critical response to a more focused collection where the clothes had room to register."
+    "reception_blurb": "Warm critical response to a more focused collection where the clothes had room to register.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Miles Socha’s WWD review, available through Yahoo syndication, finds a lively balance between cabaret corsetry and looser clubwear. Animal prints connect the designer’s personal signature to an Ibiza-inspired collection. Syndicated copies count as one review, not independent corroboration.",
+          "sources": [
+            "refresh-weinsanto"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "weinsanto",
+          "id": "rLEDHn0pSbY",
+          "title": "Weinsanto Spring Summer 2027 Fashion Show Analysis | Paris Fashion Week",
+          "author": "Brandibay Fashion",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "maxhosa-africa",
@@ -502,7 +552,29 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "Positive response to the label's most internationally viable collection yet, with some reservation about overt branding."
+    "reception_blurb": "Positive response to the label's most internationally viable collection yet, with some reservation about overt branding.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Tina Isaac-Goizé sees a commercially persuasive collection, while noting that conspicuous logos can compete with the garments. The review’s publication date is September 29; the show’s date remains September 28 under the supplied calendar.",
+          "sources": [
+            "refresh-maxhosa-africa"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "hodakova",
@@ -629,7 +701,28 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "Consistently appreciative response to the collection's material and emotional coherence."
+    "reception_blurb": "Consistently appreciative response to the collection's material and emotional coherence.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Laird Borrelli-Persson connects sails, ropes, nets and wet-looking garments to the sea and environmental unease. Her reading credits the collection’s clarity. The excluded compilation remains excluded; it has not become a verified full-show film.",
+          "sources": [
+            "refresh-hodakova"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "matieres-fecales",
@@ -826,7 +919,29 @@
     "reception_rating": "neutral",
     "reception_emoji": "😐",
     "reception_confidence": "medium",
-    "reception_blurb": "Strong concept and spectacle, but the available response remains more complicated around the balance between critique, theatre and clothes."
+    "reception_blurb": "Strong concept and spectacle, but the available response remains more complicated around the balance between critique, theatre and clothes.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Numéro describes an autobiographical collection organised around family, community and belief, with ninety-nine models of colour. Its account praises the emotional force of the presentation. This contextual report adds evidence without establishing a universal critical consensus.",
+          "sources": [
+            "refresh-matieres-fecales"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "ester-manas",
@@ -950,7 +1065,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "The runway return and continued commitment to an inclusive wardrobe read as a constructive new chapter."
+    "reception_blurb": "The runway return and continued commitment to an inclusive wardrobe read as a constructive new chapter.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Tina Isaac-Goizé treats the return as a constructive next step, with lingerie-informed garments, broader coverage and attention to fit. The existing short edited video remains labelled as edited coverage; it is not a full runway recording.",
+          "sources": [
+            "refresh-ester-manas"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "ester-manas",
+          "id": "8_R0DmYiLOg",
+          "title": "ESTER MANAS |  SPRING/SUMMER  2027   | PARIS FASHION WEEK | OUCH MAGAZINE #pfw",
+          "author": "OUCH! MAGAZINE ® ",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "marie-adam-leenaerdt",
@@ -1149,7 +1292,29 @@
     "reception_rating": "neutral",
     "reception_emoji": "😐",
     "reception_confidence": "low",
-    "reception_blurb": "Interesting design thinking, but available reception is comparatively thin."
+    "reception_blurb": "Interesting design thinking, but available reception is comparatively thin.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Tiziana Cardini reads the supermarket setting and distorted everyday garments as a witty exploration of appearance and function. Lace aprons and sculptural volumes carry the idea. That favourable assessment remains a single critic’s interpretation.",
+          "sources": [
+            "refresh-marie-adam-leenaerdt"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "mame-kurogouchi",
@@ -1339,7 +1504,29 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "Craft, textile intelligence and the coherence of Kurogouchi's personal vocabulary remain the strengths."
+    "reception_blurb": "Craft, textile intelligence and the coherence of Kurogouchi's personal vocabulary remain the strengths.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Tiziana Cardini focuses on remembered school uniforms and subtle individuality within restraint. She highlights elongated silhouettes, sheer layers, shibori checks and embroidery. The account supports a quiet, disciplined reading rather than a claim about mass enthusiasm.",
+          "sources": [
+            "refresh-mame-kurogouchi"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "christian-dior",
@@ -1491,7 +1678,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "high",
-    "reception_blurb": "Anderson's developing Dior continues to command strong interest and broadly favorable critical attention."
+    "reception_blurb": "Anderson's developing Dior continues to command strong interest and broadly favorable critical attention.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "ELLE’s Matthew Velasco gives a strongly favourable reading of Anderson’s lighter, more fluid Dior: asymmetry, watercolour effects and handcrafted surfaces loosen the house’s familiar proportions. This is verified critical commentary; demand and commercial success are not established by the review.",
+          "sources": [
+            "refresh-christian-dior"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "christian-dior",
+          "id": "9kEVyUMhIGU",
+          "title": "Dior | Spring/Summer 2027 | Paris Fashion Week",
+          "author": "Fashion Feed",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "burc-akyol",
@@ -1614,7 +1829,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "low",
-    "reception_blurb": "Early coverage supports the continuing refinement of his tailoring and sensual draping vocabulary."
+    "reception_blurb": "Early coverage supports the continuing refinement of his tailoring and sensual draping vocabulary.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "NSS’s Julie Boone reads Milk and Wine as a confident dialogue between liquid jersey and tailoring. Transformable tuxedo elements, mesh and slit trousers carry that argument. The existing short video remains edited collection coverage.",
+          "sources": [
+            "refresh-burc-akyol"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "burc-akyol",
+          "id": "VESldWNu6JI",
+          "title": "BURC AKYOL   | SPRING /SUMMER 2027 | PARIS FASHION WEEK | OUCH MAGAZINE #pfw #ouchmagazine",
+          "author": "OUCH! MAGAZINE ® ",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "maison-margiela",
@@ -1750,7 +1993,41 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "high",
-    "reception_blurb": "Martens's dialogue with the Margiela vocabulary remains one of the week's most closely watched and favorably received creative-director stories."
+    "reception_blurb": "Martens's dialogue with the Margiela vocabulary remains one of the week's most closely watched and favorably received creative-director stories.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "DSCENE’s Katarina Doric offers a more qualified view of HARD and SOFT: intelligent construction and softened accessories, but prints and restrained silhouettes that sometimes dilute the proposition. This complicates the approved positive reception summary; it does not establish a negative consensus.",
+          "sources": [
+            "refresh-maison-margiela"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "maison-margiela",
+          "id": "G4i04q9rwQc",
+          "title": "Maison Margiela | Spring/Summer 2027 | Paris Fashion Week",
+          "author": "FF Channel",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      },
+      "proposal": {
+        "rating": "positive",
+        "confidence": "medium",
+        "text": "Keep positive provisionally; reduce confidence from high to medium because DSCENE supplies a materially more critical counter-reading.",
+        "applied": false
+      }
+    }
   },
   {
     "slug": "anrealage",
@@ -1877,7 +2154,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "The technological and perceptual experimentation remains distinctive and coherent within Morinaga's established practice."
+    "reception_blurb": "The technological and perceptual experimentation remains distinctive and coherent within Morinaga's established practice.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Luke Leitch gives an enthusiastic account of Skin, connecting scale-like surfaces, phoenix imagery and changing colour to the collection’s physical and electronic experiments. The review distinguishes e-ink from LED effects; the existing official film remains in place.",
+          "sources": [
+            "refresh-anrealage"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "anrealage",
+          "id": "zGe9GIgL-4g",
+          "title": "ANREALAGE SPRING/SUMMER 2027 COLLECTION “SKIN”",
+          "author": "ANREALAGE",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "saint-laurent",
@@ -2028,7 +2333,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "high",
-    "reception_blurb": "Vaccarello's mature command of the house vocabulary continues to receive strong critical recognition."
+    "reception_blurb": "Vaccarello's mature command of the house vocabulary continues to receive strong critical recognition.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Nicole Phelps praises the black-and-gold collection while interpreting the atmosphere as suggestive of a farewell. That interpretation is speculation. The sources checked in this refresh do not establish an official departure or successor; the current designer attribution is retained.",
+          "sources": [
+            "refresh-saint-laurent"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "saint-laurent",
+          "id": "iiygG0TrZzY",
+          "title": "Saint Laurent | Spring/Summer 2027 | Paris Fashion Week",
+          "author": "Fashion Feed",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "courreges",
@@ -2152,7 +2485,41 @@
     "reception_emoji": "😍",
     "reception_confidence": "medium",
     "reception_blurb": "Drew Henry’s debut opens a new chapter in the house’s revived identity.",
-    "receptionEditorialNote": "Courrèges designer reference aligned with its dossier with user approval; the supplied positive rating and medium confidence are retained."
+    "receptionEditorialNote": "Courrèges designer reference aligned with its dossier with user approval; the supplied positive rating and medium confidence are retained.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Sarah Mower treats Drew Henry’s debut as an early proposition made under a short preparation window. Softness and loosened styling stand out, but she cautions against a settled judgement. A debut does not itself establish a lasting reception consensus.",
+          "sources": [
+            "refresh-courreges"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "courreges",
+          "id": "vj6oFvHUB1I",
+          "title": "Courrèges Spring Summer 2027 Show",
+          "author": "Courrèges",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      },
+      "proposal": {
+        "rating": "neutral",
+        "confidence": "medium",
+        "text": "Consider positive → neutral / mixed at medium confidence: the rechecked Vogue review emphasises provisional judgement. A single review is insufficient to apply that change automatically.",
+        "applied": false
+      }
+    }
   },
   {
     "slug": "the-row",
@@ -2338,7 +2705,29 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "The collection's authority rests on clothes rather than spectacle, with the house's restraint remaining central to its appeal."
+    "reception_blurb": "The collection's authority rests on clothes rather than spectacle, with the house's restraint remaining central to its appeal.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Sarah Mower finds consistency in antique linens, lace and personal-feeling layers. Her favourable account emphasises continuity and clarity rather than spectacle. The retained image selection remains the available media baseline.",
+          "sources": [
+            "refresh-the-row"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "balmain",
@@ -2473,7 +2862,35 @@
     "reception_rating": "neutral",
     "reception_emoji": "😐",
     "reception_confidence": "low",
-    "reception_blurb": "The available sample reads more mixed or less decisive than the day's strongest shows."
+    "reception_blurb": "The available sample reads more mixed or less decisive than the day's strongest shows.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Luke Leitch finds the second collection more assured, with a brighter setting and a French-desert-meets-California vocabulary. The clothes’ appeal is clearer, while the relationship between designer and house is still developing. That qualification remains relevant to a mixed reading.",
+          "sources": [
+            "refresh-balmain"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "balmain",
+          "id": "C1i_oisniVU",
+          "title": "Balmain | Spring/Summer 2027 | Paris Fashion Week",
+          "author": "Fashion Feed",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "dries-van-noten",
@@ -2599,7 +3016,37 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "high",
-    "reception_blurb": "One of Klausner's strongest critical responses so far, tempered by some public criticism of over-styling."
+    "reception_blurb": "One of Klausner's strongest critical responses so far, tempered by some public criticism of over-styling.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Nicole Phelps gives Julian Klausner a strongly favourable assessment, praising colour, cinematic prints and believable city dressing. The small linked Reddit collection thread is more critical of styling. Those two samples should remain visible separately.",
+          "sources": [
+            "refresh-dries-van-noten"
+          ]
+        }
+      ],
+      "social": {
+        "text": "The rechecked collection thread contains criticism of the styling alongside appreciation for individual garments and the finale. It is a small enthusiast sample and diverges from Vogue’s strong praise. Menswear comparisons in the thread do not become a womenswear verdict.",
+        "sources": [
+          "refresh-dries-van-noten-social"
+        ]
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "dries-van-noten",
+          "id": "Z8QV2hOkH5M",
+          "title": "DRIES VAN NOTEN - WOMEN SPRING SUMMER 2027",
+          "author": "DRIES VAN NOTEN",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "stella-mccartney",
@@ -2742,7 +3189,35 @@
     "reception_rating": "neutral",
     "reception_emoji": "😐",
     "reception_confidence": "medium",
-    "reception_blurb": "Appreciation for established strengths and the environmental message, but less sense of a major creative leap."
+    "reception_blurb": "Appreciation for established strengths and the environmental message, but less sense of a major creative leap.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Luke Leitch describes ocean-conservation messaging alongside archival silhouettes, relaxed tailoring and sculptural eveningwear. His observations about the rainy venue concern the presentation, not an audience-wide verdict. The official Summer 2027 replay remains the primary film.",
+          "sources": [
+            "refresh-stella-mccartney"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "stella-mccartney",
+          "id": "uzYospQtCoI",
+          "title": "Stella McCartney Summer 2027  Runway Show",
+          "author": "Stella McCartney",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "vaquera",
@@ -2921,7 +3396,35 @@
     "reception_rating": "neutral",
     "reception_emoji": "😐",
     "reception_confidence": "medium",
-    "reception_blurb": "Critics appreciated the humor and conviction while differing on the coherence of its references."
+    "reception_blurb": "Critics appreciated the humor and conviction while differing on the coherence of its references.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Amy Verner finds the uniform-inspired characters and repeated gowns lively and sincere, while noting that period references can feel disjointed. This supports a more favourable reading of the performance than a simple spectacle-only dismissal.",
+          "sources": [
+            "refresh-vaquera"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      },
+      "proposal": {
+        "rating": "positive",
+        "confidence": "low",
+        "text": "Consider neutral / mixed → positive at low confidence: Vogue is favourable about the performance and authenticity, but the critical sample remains limited.",
+        "applied": false
+      }
+    }
   },
   {
     "slug": "acne-studios",
@@ -3042,7 +3545,35 @@
     "reception_rating": "neutral",
     "reception_emoji": "😐",
     "reception_confidence": "medium",
-    "reception_blurb": "The central denim and historical-dress collision was inventive, but some styling felt overloaded."
+    "reception_blurb": "The central denim and historical-dress collision was inventive, but some styling felt overloaded.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Luke Leitch connects Denim Hystoria to New Romantic dressing and the label’s denim origins. He identifies commercially promising skirt-over-jeans combinations, while finding some looks crowded with competing elements. The mixed assessment remains explicit.",
+          "sources": [
+            "refresh-acne-studios"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "acne-studios",
+          "id": "HJ8Qi4LLtqc",
+          "title": "Women’s SS27 show",
+          "author": "Acne Studios",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "tom-ford",
@@ -3179,7 +3710,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "high",
-    "reception_blurb": "Strongly favorable response to Ackermann's sensual, confident and increasingly assured direction."
+    "reception_blurb": "Strongly favorable response to Ackermann's sensual, confident and increasingly assured direction.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Nicole Phelps reads Ackermann’s mirror choreography, precise tailoring and revealing eveningwear as a confident extension of Tom Ford’s sensual vocabulary. This is a positive critical assessment of the collection, not a measurement of the celebrity audience’s response.",
+          "sources": [
+            "refresh-tom-ford"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "tom-ford",
+          "id": "hl1bAZf9Hf4",
+          "title": "Tom Ford | Spring/Summer 2027 | Paris Fashion Week",
+          "author": "Fashion Feed",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "chloe",
@@ -3316,7 +3875,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "Early critical reception supports the continued development of the house's current romantic vocabulary."
+    "reception_blurb": "Early critical reception supports the continued development of the house's current romantic vocabulary.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Sarah Mower records the standing ovation and examines eyelet lace, tailoring and oversized rainwear. She also explicitly questions whether applause implies a farewell. No official move is established by the checked reporting; applause is not an appointment announcement.",
+          "sources": [
+            "refresh-chloe"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "chloe",
+          "id": "qBdqLE9xS7M",
+          "title": "Chloé | Spring/Summer 2027 | Paris Fashion Week",
+          "author": "Fashion Feed",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "alainpaul",
@@ -3491,7 +4078,29 @@
     "reception_rating": "neutral",
     "reception_emoji": "😐",
     "reception_confidence": "low",
-    "reception_blurb": "The available sample remains too limited to establish a strong consensus."
+    "reception_blurb": "The available sample remains too limited to establish a strong consensus.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Tina Isaac-Goizé connects the collection to dancers leaving the stage for a rave. Adjustable tailoring, metallic surfaces and technical fabrics make movement central. Her account adds collection detail without proving a broad reception consensus.",
+          "sources": [
+            "refresh-alainpaul"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "carven",
@@ -3668,7 +4277,29 @@
     "reception_rating": "neutral",
     "reception_emoji": "😐",
     "reception_confidence": "low",
-    "reception_blurb": "Early response does not yet support a strong positive or negative classification."
+    "reception_blurb": "Early response does not yet support a strong positive or negative classification.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Amy Verner reads Kai Nesselrath’s debut as measured first steps: intimate draping, lightness and archive references, with further development still needed. The distinction between a promising start and a settled house identity remains useful.",
+          "sources": [
+            "refresh-carven"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "balenciaga",
@@ -3805,7 +4436,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "Piccioli's translation of couture construction into a more lived-in wardrobe is receiving significant attention, though some questions around distinctiveness remain."
+    "reception_blurb": "Piccioli's translation of couture construction into a more lived-in wardrobe is receiving significant attention, though some questions around distinctiveness remain.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "ELLE’s Matthew Velasco follows Piccioli’s translation of couture references into everyday clothes, beginning with a reshaped shirt and white jeans. Colour, lace and fringe animate the proposal. This describes the collection; it does not establish sales or audience consensus.",
+          "sources": [
+            "refresh-balenciaga"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "balenciaga",
+          "id": "TVYfVeELus4",
+          "title": "Balenciaga | Spring/Summer 2027 | Paris Fashion Week",
+          "author": "Fashion Feed",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "cecilie-bahnsen",
@@ -3978,7 +4637,29 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "Positive response to giving the wearer more control over the house's romantic volume and decoration."
+    "reception_blurb": "Positive response to giving the wearer more control over the house's romantic volume and decoration.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Tiziana Cardini sees romance opening toward everyday movement: slimmer shapes, detachable volume, denim and technical nylon temper the embellishment. The review supports the collection’s practical direction without abandoning its established vocabulary.",
+          "sources": [
+            "refresh-cecilie-bahnsen"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "uma-wang",
@@ -4151,7 +4832,29 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "low",
-    "reception_blurb": "Favorable response to material intelligence, balance and controlled irregularity."
+    "reception_blurb": "Favorable response to material intelligence, balance and controlled irregularity.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Luke Leitch connects asymmetric construction to Alexander Calder’s mobiles. Displaced panels, fabric contrast and irregular dye effects create balance through deliberate disorder. This is a favourable craft-based reading within a limited critical sample.",
+          "sources": [
+            "refresh-uma-wang"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "rick-owens",
@@ -4287,7 +4990,35 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "high",
-    "reception_blurb": "One of the week's strongest early critical successes."
+    "reception_blurb": "One of the week's strongest early critical successes.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Nicole Phelps responds positively to the collection’s otherworldly lightness: webbing, parachute silk and altered footwear keep the familiar drama while changing its weight. The existing SS27 runway film remains available.",
+          "sources": [
+            "refresh-rick-owens"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "rick-owens",
+          "id": "k7nIcPDVBZs",
+          "title": "Rick Owens | Spring/Summer 2027 | Paris Fashion Week",
+          "author": "FF Channel",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      }
+    }
   },
   {
     "slug": "schiaparelli",
@@ -4465,7 +5196,29 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "Favorable early assessment of Roseberry's attempt to translate couture drama into a fuller ready-to-wear wardrobe."
+    "reception_blurb": "Favorable early assessment of Roseberry's attempt to translate couture drama into a fuller ready-to-wear wardrobe.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Nicole Phelps connects nightclub staging to decorative dinner jackets and eveningwear designed to register above a table. Knit separates broaden the offer. That account supports the couture-to-ready-to-wear conversation, without establishing a newly expanded customer base.",
+          "sources": [
+            "refresh-schiaparelli"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "galleryImages": 6,
+        "note": "The credited gallery is retained. Image availability checked; hosts may behave differently across clients."
+      }
+    }
   },
   {
     "slug": "isabel-marant",
@@ -4585,7 +5338,41 @@
     "reception_rating": "positive",
     "reception_emoji": "😍",
     "reception_confidence": "medium",
-    "reception_blurb": "Clearly favorable early response to a collection that refreshed the recognizable Marant identity without fighting it."
+    "reception_blurb": "Clearly favorable early response to a collection that refreshed the recognizable Marant identity without fighting it.",
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Tina Isaac-Goizé welcomes the lighter mood, archive references and added craft, but ultimately finds the collection tentative. That qualification materially complicates the approved positive label and belongs beside it, rather than being hidden in the source list.",
+          "sources": [
+            "refresh-isabel-marant"
+          ]
+        }
+      ],
+      "social": {
+        "text": "This refresh rechecks the linked collection reporting. It does not establish a broader audience consensus or renew every October 2 social citation. The approved social sample below remains dated October 2.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "video": {
+          "slug": "isabel-marant",
+          "id": "2rYcM8onMfQ",
+          "title": "Isabel Marant | Spring/Summer 2027 | Paris Fashion Week",
+          "author": "FF Channel",
+          "status": "metadata_verified"
+        },
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      },
+      "proposal": {
+        "rating": "neutral",
+        "confidence": "medium",
+        "text": "Consider positive → neutral / mixed at medium confidence: Vogue explicitly finds the collection tentative despite appreciating its lighter mood and craft.",
+        "applied": false
+      }
+    }
   },
   {
     "slug": "chanel",
@@ -4667,6 +5454,42 @@
       "capturedFrom": "Official header SVG",
       "checkedAt": "2026-10-02",
       "sha256": "e2e1387a9640e38954d8b45818ff0829e4da7169ee85545e046903756c0150da"
+    },
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Who What Wear’s Allyson Payer gives an enthusiastic account of Blazy’s Gabrielle-inspired collection, highlighting knee-length tweed skirts, collarless jackets and decorated accessories. Its predictions about future desirable products are editorial forecasts, not verified demand. FHCM publishes the SS27 film and lookbook.",
+          "sources": [
+            "refresh-chanel",
+            "refresh-chanel-official"
+          ]
+        }
+      ],
+      "social": {
+        "text": "The small r/chanel photo thread is divided: some readers favour particular looks and colour combinations; others dislike the dark palette or individual silhouettes. This is a self-selected sample responding to selected photographs, not a survey or a critical consensus.",
+        "sources": [
+          "refresh-chanel-social"
+        ]
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      },
+      "proposal": {
+        "rating": "neutral",
+        "confidence": "low",
+        "text": "Initial candidate: neutral / mixed, low confidence. Enthusiastic product-focused press and a divided small Reddit sample do not support a high-confidence overall verdict.",
+        "applied": false
+      },
+      "completed": true,
+      "video": {
+        "id": "weNFjc2l1Hw",
+        "title": "CHANEL Spring Summer 2027 Show — CHANEL Shows",
+        "publisher": "CHANEL"
+      }
     }
   },
   {
@@ -4749,6 +5572,40 @@
       "capturedFrom": "Official header SVG",
       "checkedAt": "2026-10-02",
       "sha256": "16cb64c1b10eb5ddee2b75889b44a2e81879572f93868d9cfe64a4b81c1a2100"
+    },
+    "researchUpdate": {
+      "checkedAt": "2026-10-08",
+      "baselineDate": "2026-10-02",
+      "paragraphs": [
+        {
+          "text": "Vogue’s Nicole Phelps gives Ghesquière’s finale a favourable reading: a futuristic setting frames simpler, body-oriented clothes, fluid trousers and satin tanks with trains. The show closed the supplied calendar on October 6 at 18:30 Paris. FHCM publishes the official womenswear film.",
+          "sources": [
+            "refresh-louis-vuitton",
+            "refresh-louis-vuitton-official"
+          ]
+        }
+      ],
+      "social": {
+        "text": "The newly located social results largely concern celebrity arrivals, front-row clothing or after-party outfits. They are excluded from the collection verdict. No sufficiently broad, verified runway-discussion sample was established in this refresh.",
+        "sources": []
+      },
+      "mediaAudit": {
+        "checkedAt": "2026-10-08",
+        "scope": "Video title and publisher metadata; availability of retained gallery image URLs. Playback and image rights are not inferred from metadata.",
+        "note": "Existing images and credits are retained. No replacement gallery was commissioned."
+      },
+      "proposal": {
+        "rating": "positive",
+        "confidence": "low",
+        "text": "Initial candidate: positive, low confidence from the favourable Vogue review. Celebrity-outfit discussion is not sufficient collection-level audience evidence.",
+        "applied": false
+      },
+      "completed": true,
+      "video": {
+        "id": "eWOl2RhllrE",
+        "title": "Women’s Spring-Summer 2027 Show I LOUIS VUITTON",
+        "publisher": "Louis Vuitton"
+      }
     }
   }
 ]

@@ -2,7 +2,7 @@
   "season": "Womenswear Spring/Summer 2027",
   "dates": "September 28 – October 6, 2026",
   "timezone": "Europe/Paris",
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-08",
   "calendarRevision": "Uploaded revision 6",
   "calendarCounts": {
     "total": 101,
@@ -14,5 +14,6 @@
   ],
   "refreshMode": "manual-command",
   "mediaUpdatedAt": "2026-10-02",
-  "audience": "Benny and Lindsay"
+  "audience": "Benny and Lindsay",
+  "refreshScope": "October 8 collection-source recheck and additive post-show supplement; approved October 2 copy preserved."
 }
